@@ -471,13 +471,11 @@ namespace WebBanCa.Migrations
 
             modelBuilder.Entity("WebBanCa.Models.ProductImage", b =>
                 {
-                    b.HasOne("WebBanCa.Models.Product", "Product")
+                    b.HasOne("WebBanCa.Models.Product", null)
                         .WithMany("ProductImages")
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.Navigation("Product");
                 });
 
             modelBuilder.Entity("WebBanCa.Models.Category", b =>

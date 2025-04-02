@@ -1,123 +1,63 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 using WebBanCa.Models;
 using WebBanCa.Repositories;
-using System.Threading.Tasks;
-using System.Linq;
-using Microsoft.AspNetCore.Authorization;
 
 namespace WebBanCa.Controllers
 {
-    [Authorize(Roles = "Admin")] // Yêu cầu quyền Admin cho toàn bộ controller
-    public class CategoryController : Controller
+    [ApiController]
+    [Route("api/categories")]
+    public class CategoryApiController : ControllerBase
     {
         private readonly ICategoryRepository _categoryRepository;
 
-        public CategoryController(ICategoryRepository categoryRepository)
+        public CategoryApiController(ICategoryRepository categoryRepository)
         {
             _categoryRepository = categoryRepository;
         }
 
-        [AllowAnonymous] // Cho phép mọi người xem danh sách danh mục
-        public async Task<IActionResult> Index()
+        [HttpGet]
+        public async Task<IActionResult> GetCategories()
         {
             var categories = await _categoryRepository.GetAllAsync();
-            return View(categories);
+            return Ok(categories);
         }
 
-        public IActionResult Add()
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetCategoryById(int id)
         {
-            return View();
+            var category = await _categoryRepository.GetByIdAsync(id);
+            if (category == null) return NotFound();
+            return Ok(category);
         }
 
         [HttpPost]
-        public async Task<IActionResult> Add(Category category)
+        public async Task<IActionResult> AddCategory([FromBody] Category category)
         {
-            if (ModelState.IsValid)
+            if (category == null || string.IsNullOrEmpty(category.Name))
             {
-                await _categoryRepository.AddAsync(category);
-                TempData["SuccessMessage"] = "Category added successfully.";
-                return RedirectToAction(nameof(Index));
+                return BadRequest("Tên danh mục không được để trống.");
             }
-            return View(category);
+
+            await _categoryRepository.AddAsync(category);
+            return CreatedAtAction(nameof(GetCategoryById), new { id = category.Id }, category);
         }
 
-        public async Task<IActionResult> Update(int id)
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateCategory(int id, [FromBody] Category category)
         {
-            var category = await _categoryRepository.GetByIdAsync(id);
-            if (category == null)
-            {
-                return NotFound();
-            }
-            return View(category);
+            if (id != category.Id) return BadRequest();
+
+            await _categoryRepository.UpdateAsync(category);
+            return NoContent();
         }
 
-        [HttpPost]
-        public async Task<IActionResult> Update(int id, Category category)
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteCategory(int id)
         {
-            if (id != category.Id)
-            {
-                return NotFound();
-            }
-
-            if (ModelState.IsValid)
-            {
-                await _categoryRepository.UpdateAsync(category);
-                TempData["SuccessMessage"] = "Category updated successfully.";
-                return RedirectToAction(nameof(Index));
-            }
-            return View(category);
-        }
-
-        public async Task<IActionResult> Delete(int id)
-        {
-            var category = await _categoryRepository.GetByIdAsync(id);
-            if (category == null)
-            {
-                return NotFound();
-            }
-            return View(category);
-        }
-
-        [HttpPost, ActionName("DeleteConfirmed")]
-        public async Task<IActionResult> DeleteConfirmed(int id)
-        {
-            try
-            {
-                var category = await _categoryRepository.GetByIdAsync(id);
-
-                if (category == null)
-                {
-                    TempData["ErrorMessage"] = "Category not found.";
-                    return RedirectToAction(nameof(Index));
-                }
-                var productsInCategory = await _categoryRepository.GetProductsByCategoryIdAsync(id); if (productsInCategory.Any())
-                {
-                    TempData["ErrorMessage"] = "Đang có trong danh sách sản phẩm không thể xóa";
-                    return RedirectToAction(nameof(Index));
-                }
-
-                await _categoryRepository.DeleteAsync(id);
-                TempData["SuccessMessage"] = "Category deleted successfully.";
-            }
-            catch (Exception ex)
-            {
-                TempData["ErrorMessage"] = "An error occurred while deleting the category.";
-                Console.WriteLine($"Error: {ex.Message}");
-            }
-
-            return RedirectToAction(nameof(Index));
-        }
-
-        [AllowAnonymous] // Cho phép mọi người xem chi tiết danh mục
-        public async Task<IActionResult> Display(int id)
-        {
-            var category = await _categoryRepository.GetByIdAsync(id);
-            if (category == null)
-            {
-                return NotFound();
-            }
-            return View(category);
+            await _categoryRepository.DeleteAsync(id);
+            return NoContent();
         }
     }
 }
-            

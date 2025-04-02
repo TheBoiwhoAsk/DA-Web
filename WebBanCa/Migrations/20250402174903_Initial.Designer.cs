@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace WebBanCa.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250402024554_Initial")]
+    [Migration("20250402174903_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
@@ -474,13 +474,11 @@ namespace WebBanCa.Migrations
 
             modelBuilder.Entity("WebBanCa.Models.ProductImage", b =>
                 {
-                    b.HasOne("WebBanCa.Models.Product", "Product")
+                    b.HasOne("WebBanCa.Models.Product", null)
                         .WithMany("ProductImages")
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.Navigation("Product");
                 });
 
             modelBuilder.Entity("WebBanCa.Models.Category", b =>

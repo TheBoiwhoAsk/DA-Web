@@ -37,9 +37,17 @@ namespace WebBanCa.Controllers
         [HttpPost]
         public async Task<IActionResult> AddProduct([FromBody] Product product)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            Console.WriteLine($"Received Product: {product.Name}, Price: {product.Price}, CategoryId: {product.CategoryId}");
+
             await _productRepository.AddAsync(product);
             return CreatedAtAction(nameof(GetProductById), new { id = product.Id }, product);
         }
+
 
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateProduct(int id, [FromBody] Product product)

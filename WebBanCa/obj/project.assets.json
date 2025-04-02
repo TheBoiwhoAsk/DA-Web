@@ -5741,11 +5741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\WebBanCa\\WebBanCa\\WebBanCa.csproj",
+      "projectUniqueName": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\WebBanCa.csproj",
       "projectName": "WebBanCa",
-      "projectPath": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\WebBanCa\\WebBanCa\\WebBanCa.csproj",
+      "projectPath": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\WebBanCa.csproj",
       "packagesPath": "C:\\Users\\Hoa Nguyen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\WebBanCa\\WebBanCa\\obj\\",
+      "outputPath": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",

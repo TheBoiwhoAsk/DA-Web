@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HUI6EVrUoMw=",
+  "dgSpecHash": "NhRpr1mjCew=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\WebBanCa\\WebBanCa\\WebBanCa.csproj",
+  "projectFilePath": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\WebBanCa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hoa Nguyen\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Hoa Nguyen\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

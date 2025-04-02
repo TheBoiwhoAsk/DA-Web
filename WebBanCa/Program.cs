@@ -9,6 +9,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlSer
 
 // Đăng ký Repository
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 
 //Role
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>()

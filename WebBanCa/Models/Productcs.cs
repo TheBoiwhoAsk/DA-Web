@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.Collections.Generic; // Thêm chỉ thị này nếu chưa có
-using WebBanCa.Models; // Thêm chỉ thị này để tham chiếu đến lớp ProductImage
+using WebBanCa.Models;
+using System.Text.Json.Serialization; // Thêm chỉ thị này để tham chiếu đến lớp ProductImage
 
 namespace WebBanCa.Models
 {
@@ -14,6 +15,7 @@ namespace WebBanCa.Models
         public string Origin { get; set; }
         public string Description { get; set; }
         public int CategoryId { get; set; }
+        [JsonIgnore]
         public Category?   Category { get; set; }
         public bool Status { get; set; }
 
