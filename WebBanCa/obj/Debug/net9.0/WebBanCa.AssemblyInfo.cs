@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebBanCa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+300f056bcfdc8ce1a4e3197836a105c9e801462d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14d0baf607b651265ede2cf2b3ff48e80e816196")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebBanCa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebBanCa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

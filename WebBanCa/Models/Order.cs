@@ -13,7 +13,7 @@ namespace WebBanCa.Models
         public string Notes { get; set; }
         [ForeignKey("UserId")]
         [ValidateNever]
-        public ApplicationUser ApplicationUser { get; set; }
+        public NewUserModel NewUserModel { get; set; }
         public List<OrderDetail> OrderDetails { get; set; }
     }
 }

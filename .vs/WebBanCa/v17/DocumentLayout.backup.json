@@ -3,48 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\migrations\\20250402174903_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\migrations\\20250402174903_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Migrations\\20250404202755_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebBanCa\\Migrations\\20250404202755_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Migrations\\20250404201956_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebBanCa\\Migrations\\20250404201956_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\models\\newusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\models\\newusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Migrations\\20250404142342_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebBanCa\\Migrations\\20250404142342_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\models\\productcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\models\\productcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,50 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\webbanca.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\webbanca.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\areas\\admin\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\areas\\admin\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|c:\\users\\hoa nguyen\\desktop\\lt_web\\da-web\\webbanca\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B312F110-E782-46D5-AEC6-39F7D2447893}|WebBanCa\\WebBanCa.csproj|solutionrelative:webbanca\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -115,313 +55,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250402174903_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Migrations\\20250402174903_Initial.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Migrations\\20250402174903_Initial.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Migrations\\20250402174903_Initial.cs",
-              "RelativeToolTip": "WebBanCa\\Migrations\\20250402174903_Initial.cs",
+              "Title": "20250404202755_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Migrations\\20250404202755_Initial.cs",
+              "RelativeDocumentMoniker": "WebBanCa\\Migrations\\20250404202755_Initial.cs",
+              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Migrations\\20250404202755_Initial.cs",
+              "RelativeToolTip": "WebBanCa\\Migrations\\20250404202755_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T17:49:03.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Productcs.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\Productcs.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Models\\Productcs.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\Productcs.cs",
-              "RelativeToolTip": "WebBanCa\\Models\\Productcs.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:56:23.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductImage.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\ProductImage.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Models\\ProductImage.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\ProductImage.cs",
-              "RelativeToolTip": "WebBanCa\\Models\\ProductImage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T02:04:58.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\Order.cs",
-              "RelativeToolTip": "WebBanCa\\Models\\Order.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:55:33.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "WebBanCa\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T03:15:25.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "WebBanCa\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:50:43.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "WebBanCa\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T02:52:59.808Z",
+              "WhenOpened": "2025-04-04T20:27:55.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "WebBanCa\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA4AAAAJAAAAAAAAAA==",
+              "Title": "20250404201956_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Migrations\\20250404201956_Initial.cs",
+              "RelativeDocumentMoniker": "WebBanCa\\Migrations\\20250404201956_Initial.cs",
+              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Migrations\\20250404201956_Initial.cs",
+              "RelativeToolTip": "WebBanCa\\Migrations\\20250404201956_Initial.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T14:03:54.517Z",
+              "WhenOpened": "2025-04-04T20:19:56.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\NewUserModel.cs",
+              "RelativeDocumentMoniker": "WebBanCa\\Models\\NewUserModel.cs",
+              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\NewUserModel.cs",
+              "RelativeToolTip": "WebBanCa\\Models\\NewUserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:52:29.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\Category.cs",
-              "RelativeToolTip": "WebBanCa\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebBanCa\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebBanCa\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAjwFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:55:00.367Z",
+              "WhenOpened": "2025-04-03T11:49:08.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "WebBanCa\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAiwDEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "20250404142342_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Migrations\\20250404142342_Initial.cs",
+              "RelativeDocumentMoniker": "WebBanCa\\Migrations\\20250404142342_Initial.cs",
+              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Migrations\\20250404142342_Initial.cs",
+              "RelativeToolTip": "WebBanCa\\Migrations\\20250404142342_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T03:45:23.103Z",
+              "WhenOpened": "2025-04-04T14:23:42.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ShoppingCartController.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Controllers\\ShoppingCartController.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Controllers\\ShoppingCartController.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Controllers\\ShoppingCartController.cs",
-              "RelativeToolTip": "WebBanCa\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAMwEAAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "WebBanCa\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\LoginModel.cs",
+              "RelativeToolTip": "WebBanCa\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T03:03:25.577Z",
+              "WhenOpened": "2025-04-03T15:35:33.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebBanCa\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "WebBanCa\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "WebBanCa\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T03:03:23.01Z",
+              "WhenOpened": "2025-04-03T15:35:25.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Repositories\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Repositories\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Repositories\\ICategoryRepository.cs",
-              "RelativeToolTip": "WebBanCa\\Repositories\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T02:09:09.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "WebBanCa\\Repositories\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T03:15:09.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Program.cs",
               "RelativeDocumentMoniker": "WebBanCa\\Program.cs",
               "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Program.cs",
               "RelativeToolTip": "WebBanCa\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAiwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T02:31:54.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "WebBanCa\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebBanCa\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebBanCa\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:32:57.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\ShoppingCart.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Models\\ShoppingCart.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\ShoppingCart.cs",
-              "RelativeToolTip": "WebBanCa\\Models\\ShoppingCart.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T02:05:02.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SessionExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Extensions\\SessionExtensions.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Extensions\\SessionExtensions.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Extensions\\SessionExtensions.cs",
-              "RelativeToolTip": "WebBanCa\\Extensions\\SessionExtensions.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T03:51:41.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "WebBanCa.http",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\WebBanCa.http",
-              "RelativeDocumentMoniker": "WebBanCa\\WebBanCa.http",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\WebBanCa.http",
-              "RelativeToolTip": "WebBanCa\\WebBanCa.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-04-02T03:15:47.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "WebBanCa\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:28:30.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Models\\OrderDetail.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Models\\OrderDetail.cs",
-              "RelativeToolTip": "WebBanCa\\Models\\OrderDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:56:19.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "SD.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Areas\\Admin\\Models\\SD.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Areas\\Admin\\Models\\SD.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Areas\\Admin\\Models\\SD.cs",
-              "RelativeToolTip": "WebBanCa\\Areas\\Admin\\Models\\SD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:50:36.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "WebBanCa\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAwwHYAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:32:06.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Logout.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
-              "RelativeDocumentMoniker": "WebBanCa\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
-              "ToolTip": "C:\\Users\\Hoa Nguyen\\Desktop\\LT_web\\DA-Web\\WebBanCa\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
-              "RelativeToolTip": "WebBanCa\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAewBAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T01:26:14.592Z",
+              "WhenOpened": "2025-04-03T11:28:43.47Z",
               "EditorCaption": ""
             }
           ]

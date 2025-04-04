@@ -10,11 +10,11 @@ namespace WebBanCa.Controllers
 {
     [ApiController]
     [Route("api/products")]
-    public class ProductApiController : ControllerBase
+    public class ProductWebBanCaController : ControllerBase
     {
         private readonly IProductRepository _productRepository;
 
-        public ProductApiController(IProductRepository productRepository)
+        public ProductWebBanCaController(IProductRepository productRepository)
         {
             _productRepository = productRepository;
         }

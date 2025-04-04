@@ -405,8 +405,6 @@ C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\WebBanCa.Ass
 C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\WebBanCa.csproj.CoreCompileInputs.cache
 C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\WebBanCa.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\WebBanCa.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\WebBanCa.RazorAssemblyInfo.cache
-C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\WebBanCa.RazorAssemblyInfo.cs
 C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\WebBanCa.sourcelink.json
 C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\scopedcss\bundle\WebBanCa.styles.css
 C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
@@ -480,10 +478,11 @@ C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\staticwebass
 C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WebBanCa.props
 C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WebBanCa.props
 C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\WebBanCa.csproj.Up2Date
 C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\WebBanCa.dll
 C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\refint\WebBanCa.dll
 C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\WebBanCa.pdb
 C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\WebBanCa.genruntimeconfig.cache
 C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\ref\WebBanCa.dll
+C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Hoa Nguyen\Desktop\LT_web\DA-Web\WebBanCa\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

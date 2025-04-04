@@ -12,9 +12,9 @@ namespace WebBanCa.Controllers
     {
         private readonly IProductRepository _productRepository;
         private readonly ApplicationDbContext _context;
-        private readonly UserManager<ApplicationUser> _userManager;
+        private readonly UserManager<NewUserModel> _userManager;
 
-        public ShoppingCartController(ApplicationDbContext context, UserManager<ApplicationUser> userManager, IProductRepository productRepository)
+        public ShoppingCartController(ApplicationDbContext context, UserManager<NewUserModel> userManager, IProductRepository productRepository)
         {
             _productRepository = productRepository;
             _context = context;

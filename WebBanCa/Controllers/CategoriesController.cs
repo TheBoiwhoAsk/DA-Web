@@ -8,11 +8,11 @@ namespace WebBanCa.Controllers
 {
     [ApiController]
     [Route("api/categories")]
-    public class CategoryApiController : ControllerBase
+    public class CategoryWebBanCaController : ControllerBase
     {
         private readonly ICategoryRepository _categoryRepository;
 
-        public CategoryApiController(ICategoryRepository categoryRepository)
+        public CategoryWebBanCaController(ICategoryRepository categoryRepository)
         {
             _categoryRepository = categoryRepository;
         }
