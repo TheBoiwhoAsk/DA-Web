@@ -241,5 +241,89 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebBanCa.Controllers.Api.ShoppingCartApiController",
+    "Method": "GetCart",
+    "RelativePath": "api/ShoppingCartApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebBanCa.Controllers.Api.ShoppingCartApiController",
+    "Method": "AddToCart",
+    "RelativePath": "api/ShoppingCartApi/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "item",
+        "Type": "WebBanCa.Models.CartItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebBanCa.Controllers.Api.ShoppingCartApiController",
+    "Method": "Checkout",
+    "RelativePath": "api/ShoppingCartApi/checkout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "order",
+        "Type": "WebBanCa.Models.Order",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebBanCa.Controllers.Api.ShoppingCartApiController",
+    "Method": "ClearCart",
+    "RelativePath": "api/ShoppingCartApi/clear",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebBanCa.Controllers.Api.ShoppingCartApiController",
+    "Method": "RemoveFromCart",
+    "RelativePath": "api/ShoppingCartApi/remove/{productId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebBanCa.Controllers.Api.ShoppingCartApiController",
+    "Method": "UpdateQuantity",
+    "RelativePath": "api/ShoppingCartApi/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "item",
+        "Type": "WebBanCa.Models.CartItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace WebBanCa.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250404202755_Initial")]
+    [Migration("20250405204752_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
